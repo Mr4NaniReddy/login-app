@@ -7,6 +7,7 @@ import android.widget.RadioGroup;
 
 public class helpers {
 
+    // helper
     public static Boolean isVaildUserName(EditText data) {
         String text = data.getText().toString().trim();
 
